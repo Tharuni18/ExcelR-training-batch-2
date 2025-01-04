@@ -10,8 +10,9 @@ public class Demo007{
         int age = sc.nextInt();
         System.out.println("My age is:" + age);
         System.out.println("Enter your phoneno");
-        String phoneNo = sc.nextLine();
+        Long phoneNo = sc.nextLong();
         System.out.println("My phoneno is:" + phoneNo);
+        System.out.println("Hello " + name +" your age is " + age + " and your phoneNumber is 18" + phoneNo);
         sc.close();
 
         
