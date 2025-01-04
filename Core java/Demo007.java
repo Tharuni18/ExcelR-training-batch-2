@@ -12,7 +12,7 @@ public class Demo007{
         System.out.println("Enter your phoneno");
         Long phoneNo = sc.nextLong();
         System.out.println("My phoneno is:" + phoneNo);
-        System.out.println("Hello " + name +" your age is " + age + " and your phoneNumber is 18" + phoneNo);
+        System.out.println("Hello " + name +" your age is " + age + " and your phoneNumber is " + phoneNo);
         sc.close();
 
         
