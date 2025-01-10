@@ -7,7 +7,7 @@ class NextMultipleOf100 {
     }
 }
 
-public class PS002QnSol {
+public class PS002 {
     public static void main(String[] args) {
         NextMultipleOf100 obj = new NextMultipleOf100();
         int num = 223;
